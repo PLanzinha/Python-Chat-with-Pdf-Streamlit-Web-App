@@ -1,0 +1,8 @@
+chromadb==0.4.24
+langchain==0.2.15
+langchain_community==0.2.13
+pypdfium2==4.30.0
+pypdfium2==4.29.0
+PyYAML==6.0.1
+PyYAML==6.0.2
+streamlit==1.33.0
